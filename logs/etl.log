@@ -1,0 +1,9 @@
+2025/03/11 21:40:16 Failed to save raw data: pq: relation "raw_data" does not exist
+2025/03/11 21:40:16 Successfully fetched and stored data.
+2025/03/11 21:42:00 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:6d83:4cd3:ebef:69c3]:64723->[2606:4700:3030::6815:3001]:443: read: operation timed out
+2025/03/11 21:42:30 Failed to save raw data: pq: relation "raw_data" does not exist
+2025/03/11 21:42:30 Successfully fetched and stored data.
+2025/03/11 21:43:36 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:6d83:4cd3:ebef:69c3]:64808->[2606:4700:3030::6815:3001]:443: read: operation timed out
+2025/03/11 21:44:07 Failed to save raw data: pq: relation "raw_data" does not exist
+2025/03/11 21:44:07 Successfully fetched and stored data.
+2025/03/11 21:45:42 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:6d83:4cd3:ebef:69c3]:64870->[2606:4700:3030::6815:3001]:443: read: operation timed out

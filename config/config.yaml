@@ -1,0 +1,5 @@
+db_host: "localhost"
+db_user: "postgres_user"
+db_password: "postgres_password"
+db_name: "etl_db"
+api_url: "https://randomuser.me/api/"
