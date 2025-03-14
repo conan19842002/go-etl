@@ -1,4 +1,4 @@
-module github.com/go-etl
+module go-etl
 
 go 1.18
 

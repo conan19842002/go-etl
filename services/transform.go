@@ -2,30 +2,38 @@ package services
 
 import (
 	"encoding/json"
-	"go-etl/utils"
+	"log"
 )
 
-func TransformData(input []byte) ([]byte, error) {
+// TransformData processes raw API response and extracts necessary fields
+func TransformData(rawData []byte) ([]byte, error) {
 	var apiResp map[string]interface{}
-	err := json.Unmarshal(input, &apiResp)
+	err := json.Unmarshal(rawData, &apiResp)
 	if err != nil {
 		return nil, err
 	}
 
-	// Extract needed fields
-	results := apiResp["results"].([]interface{})
+	results, ok := apiResp["results"].([]interface{})
+	if !ok || len(results) == 0 {
+		return nil, nil
+	}
+
 	transformed := make([]map[string]interface{}, len(results))
 
 	for i, user := range results {
 		u := user.(map[string]interface{})
 		transformed[i] = map[string]interface{}{
-			"name":      u["name"],
-			"email":     u["email"],
-			"dob":       u["dob"].(map[string]interface{})["date"],
+			"name":  u["name"],
+			"email": u["email"],
+			"dob":   u["dob"].(map[string]interface{})["date"],
 		}
 	}
 
-	output, _ := json.MarshalIndent(transformed, "", "  ")
-	utils.SaveToFile("data/processed/processed_data.json", output)
+	output, err := json.MarshalIndent(transformed, "", "  ")
+	if err != nil {
+		return nil, err
+	}
+
+	log.Println("Data transformed successfully.")
 	return output, nil
 }

@@ -1,26 +1,16 @@
-FROM golang:1.18-alpine
+FROM golang:latest
 
-ADD . app/
-# Set the Current Working Directory inside the container
-WORKDIR app
+ENV GO111MODULE=on
+
+# Set a working directory inside the container
+WORKDIR /app
+
+COPY go.mod ./
+RUN go mod download && go mod verify
 
 COPY . .
+RUN go build -v -o main .
 
-# Download all the dependencies
-RUN go get -d -v ./...
+EXPOSE 8080
 
-# Install the package
-RUN go install -v ./...
-
-FROM alpine:latest
-
-RUN apk --no-cache add ca-certificates curl postgresql-client
-
-
-RUN mkdir -p /app/data/raw /app/data/processed /app/logs
-
-RUN CGO_ENABLED=0 GOOS=linux go build -o etl-pipeline main.go
-
-EXPOSE 6000
-
-CMD ["/etl-pipeline"]
+CMD ["/app/main"]
