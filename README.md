@@ -16,6 +16,9 @@ This project is a **Go-based ETL (Extract, Transform, Load) pipeline** that:
 📂 etl-pipeline
  ├── 📂 config/                
  │    ├── config.go           # Loads database & API configurations
+ ├── 📂 data/                    
+ │    ├── raw/                # Contain raw data
+ │    ├── processed/          # Contain processed data
  ├── 📂 db/                    
  │    ├── db.go               # Handles PostgreSQL connection
  │    ├── init.sql            # Creates PostgreSQL tables on startup
@@ -25,6 +28,7 @@ This project is a **Go-based ETL (Extract, Transform, Load) pipeline** that:
  │    ├── store.go            # Saves processed data
  ├── 📂 utils/                 
  │    ├── helper.go           # Helper utilities
+ ├── 📂 logs/                   # Contain log file  
  ├── main.go                   # Application entry point (goroutines & channels)
  ├── Dockerfile                # Docker containerization
  ├── docker-compose.yml        # Manages ETL & PostgreSQL containers
