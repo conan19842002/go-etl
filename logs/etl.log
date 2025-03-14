@@ -7,3 +7,264 @@
 2025/03/11 21:44:07 Failed to save raw data: pq: relation "raw_data" does not exist
 2025/03/11 21:44:07 Successfully fetched and stored data.
 2025/03/11 21:45:42 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:6d83:4cd3:ebef:69c3]:64870->[2606:4700:3030::6815:3001]:443: read: operation timed out
+2025/03/13 23:19:16 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:19:16 Successfully fetched and stored data.
+2025/03/13 23:19:46 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:19:46 Successfully fetched and stored data.
+2025/03/13 23:20:16 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:20:16 Successfully fetched and stored data.
+2025/03/13 23:20:47 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:20:47 Successfully fetched and stored data.
+2025/03/13 23:21:17 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:21:17 Successfully fetched and stored data.
+2025/03/13 23:21:47 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:21:47 Successfully fetched and stored data.
+2025/03/13 23:22:18 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:22:18 Successfully fetched and stored data.
+2025/03/13 23:22:48 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:22:48 Successfully fetched and stored data.
+2025/03/13 23:23:18 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:23:18 Successfully fetched and stored data.
+2025/03/13 23:23:49 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:23:49 Successfully fetched and stored data.
+2025/03/13 23:24:19 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:24:19 Successfully fetched and stored data.
+2025/03/13 23:24:49 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:24:49 Successfully fetched and stored data.
+2025/03/13 23:25:19 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:25:19 Successfully fetched and stored data.
+2025/03/13 23:25:49 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:25:49 Successfully fetched and stored data.
+2025/03/13 23:26:19 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:26:19 Successfully fetched and stored data.
+2025/03/13 23:26:52 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:26:52 Successfully fetched and stored data.
+2025/03/13 23:27:22 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:27:22 Successfully fetched and stored data.
+2025/03/13 23:27:52 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:27:52 Successfully fetched and stored data.
+2025/03/13 23:28:23 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:28:23 Successfully fetched and stored data.
+2025/03/13 23:28:53 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:28:53 Successfully fetched and stored data.
+2025/03/13 23:29:23 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:29:23 Successfully fetched and stored data.
+2025/03/13 23:29:53 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:29:53 Successfully fetched and stored data.
+2025/03/13 23:30:24 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:30:24 Successfully fetched and stored data.
+2025/03/13 23:30:54 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:30:54 Successfully fetched and stored data.
+2025/03/13 23:31:26 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:31:26 Successfully fetched and stored data.
+2025/03/13 23:31:56 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/13 23:31:56 Successfully fetched and stored data.
+2025/03/14 00:05:42 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 00:05:42 Successfully fetched and stored data.
+2025/03/14 01:32:41 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 01:32:41 Successfully fetched and stored data.
+2025/03/14 03:15:01 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 03:15:01 Successfully fetched and stored data.
+2025/03/14 04:40:54 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 04:40:54 Successfully fetched and stored data.
+2025/03/14 06:18:07 Failed to fetch API: Get "https://randomuser.me/api/": dial tcp: lookup randomuser.me on 127.0.0.11:53: no such host
+2025/03/14 06:36:16 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 06:36:16 Successfully fetched and stored data.
+2025/03/14 07:29:54 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 07:29:54 Successfully fetched and stored data.
+2025/03/14 09:08:15 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:08:15 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:08:15 ✅ Processed data saved successfully.
+2025/03/14 09:08:15 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:09:03 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:54175->[2606:4700:3030::6815:3001]:443: read: operation timed out
+2025/03/14 09:09:03 Failed to fetch data. Skipping...
+2025/03/14 09:09:34 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:09:34 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:09:34 ✅ Processed data saved successfully.
+2025/03/14 09:09:34 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:10:38 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:54227->[2606:4700:3030::6815:3001]:443: read: operation timed out
+2025/03/14 09:10:38 Failed to fetch data. Skipping...
+2025/03/14 09:11:08 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:11:08 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:11:08 ✅ Processed data saved successfully.
+2025/03/14 09:11:08 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:11:57 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:54285->[2606:4700:3030::6815:3001]:443: read: operation timed out
+2025/03/14 09:11:57 Failed to fetch data. Skipping...
+2025/03/14 09:12:28 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:12:28 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:12:28 ✅ Processed data saved successfully.
+2025/03/14 09:12:28 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:15:36 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:15:36 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:15:36 ✅ Data transformed successfully.
+2025/03/14 09:15:36 ✅ Processed data saved successfully.
+2025/03/14 09:15:36 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:16:26 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:54470->[2606:4700:3030::6815:7001]:443: read: operation timed out
+2025/03/14 09:16:26 Failed to fetch data. Skipping...
+2025/03/14 09:16:56 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:16:56 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:16:56 ✅ Data transformed successfully.
+2025/03/14 09:16:56 ✅ Processed data saved successfully.
+2025/03/14 09:16:56 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:17:44 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:54539->[2606:4700:3030::6815:7001]:443: read: operation timed out
+2025/03/14 09:17:44 Failed to fetch data. Skipping...
+2025/03/14 09:18:14 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:18:14 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:18:14 ✅ Data transformed successfully.
+2025/03/14 09:18:14 ✅ Processed data saved successfully.
+2025/03/14 09:18:14 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:19:03 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:54613->[2606:4700:3030::6815:7001]:443: read: operation timed out
+2025/03/14 09:19:03 Failed to fetch data. Skipping...
+2025/03/14 09:19:18 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:19:18 Successfully fetched and stored data.
+2025/03/14 09:19:37 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:19:37 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:19:37 ✅ Data transformed successfully.
+2025/03/14 09:19:37 ✅ Processed data saved successfully.
+2025/03/14 09:19:37 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:20:07 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:20:07 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:20:07 ✅ Data transformed successfully.
+2025/03/14 09:20:07 ✅ Processed data saved successfully.
+2025/03/14 09:20:07 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:20:37 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:20:37 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:20:37 ✅ Data transformed successfully.
+2025/03/14 09:20:37 ✅ Processed data saved successfully.
+2025/03/14 09:20:37 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:21:07 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:21:07 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:21:07 ✅ Data transformed successfully.
+2025/03/14 09:21:07 ✅ Processed data saved successfully.
+2025/03/14 09:21:07 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:22:50 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:22:50 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:22:50 ✅ Data transformed successfully.
+2025/03/14 09:22:50 ✅ Processed data saved successfully.
+2025/03/14 09:22:50 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:23:20 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:23:20 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:23:20 ✅ Data transformed successfully.
+2025/03/14 09:23:20 ✅ Processed data saved successfully.
+2025/03/14 09:23:20 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:23:50 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:23:50 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:23:50 ✅ Data transformed successfully.
+2025/03/14 09:23:50 ✅ Processed data saved successfully.
+2025/03/14 09:23:50 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:24:21 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:24:21 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:24:21 ✅ Data transformed successfully.
+2025/03/14 09:24:21 ✅ Processed data saved successfully.
+2025/03/14 09:24:21 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:24:39 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:24:39 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:24:39 ✅ Data transformed successfully.
+2025/03/14 09:24:39 ✅ Processed data saved successfully.
+2025/03/14 09:24:39 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:25:42 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:54887->[2606:4700:3030::6815:2001]:443: read: operation timed out
+2025/03/14 09:25:42 Failed to fetch data. Skipping...
+2025/03/14 09:29:14 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:29:14 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:29:14 ✅ Data transformed successfully.
+2025/03/14 09:29:14 ✅ Processed data saved successfully.
+2025/03/14 09:29:14 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:29:45 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:29:45 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:29:45 ✅ Data transformed successfully.
+2025/03/14 09:29:45 ✅ Processed data saved successfully.
+2025/03/14 09:29:45 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:30:15 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:30:15 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:30:15 ✅ Data transformed successfully.
+2025/03/14 09:30:15 ✅ Processed data saved successfully.
+2025/03/14 09:30:15 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:30:48 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:30:48 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:30:48 ✅ Data transformed successfully.
+2025/03/14 09:30:48 ✅ Processed data saved successfully.
+2025/03/14 09:30:48 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:31:18 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:31:18 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:31:18 ✅ Data transformed successfully.
+2025/03/14 09:31:18 ✅ Processed data saved successfully.
+2025/03/14 09:31:18 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:31:48 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:31:48 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:31:48 ✅ Data transformed successfully.
+2025/03/14 09:31:48 ✅ Processed data saved successfully.
+2025/03/14 09:31:48 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:32:19 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:32:19 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:32:19 ✅ Data transformed successfully.
+2025/03/14 09:32:19 ✅ Processed data saved successfully.
+2025/03/14 09:32:19 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:32:49 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:32:49 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:32:49 ✅ Data transformed successfully.
+2025/03/14 09:32:49 ✅ Processed data saved successfully.
+2025/03/14 09:32:49 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:32:49 Server started on port 6000...
+2025/03/14 09:32:49 Server failed to start: listen tcp :6000: bind: address already in use
+2025/03/14 09:33:03 Server started on port 6000...
+2025/03/14 09:33:03 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:33:03 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:33:03 ✅ Data transformed successfully.
+2025/03/14 09:33:03 ✅ Processed data saved successfully.
+2025/03/14 09:33:03 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:34:06 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:55264->[2606:4700:3030::6815:5001]:443: read: operation timed out
+2025/03/14 09:34:06 Failed to fetch data. Skipping...
+2025/03/14 09:34:36 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:34:36 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:34:36 ✅ Data transformed successfully.
+2025/03/14 09:34:36 ✅ Processed data saved successfully.
+2025/03/14 09:34:36 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:35:40 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:55328->[2606:4700:3030::6815:4001]:443: read: operation timed out
+2025/03/14 09:35:40 Failed to fetch data. Skipping...
+2025/03/14 09:36:10 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:36:10 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:36:10 ✅ Data transformed successfully.
+2025/03/14 09:36:10 ✅ Processed data saved successfully.
+2025/03/14 09:36:10 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:36:32 Starting HTTP server on port 8080...
+2025/03/14 09:36:32 Server started on port 8080...
+2025/03/14 09:36:32 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:36:32 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:36:32 ✅ Data transformed successfully.
+2025/03/14 09:36:32 ✅ Processed data saved successfully.
+2025/03/14 09:36:32 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:37:35 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:55400->[2606:4700:3030::6815:4001]:443: read: operation timed out
+2025/03/14 09:37:35 Failed to fetch data. Skipping...
+2025/03/14 09:38:05 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:38:05 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:38:05 ✅ Data transformed successfully.
+2025/03/14 09:38:05 ✅ Processed data saved successfully.
+2025/03/14 09:38:05 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:40:17 Starting HTTP server on port 8080...
+2025/03/14 09:40:17 Main function is running!
+2025/03/14 09:40:17 Server started on port 8080...
+2025/03/14 09:40:17 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:40:17 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:40:17 ✅ Data transformed successfully.
+2025/03/14 09:40:17 ✅ Processed data saved successfully.
+2025/03/14 09:40:17 Successfully processed and saved transformed data.
+2025/03/14 09:41:07 Failed to fetch API: Get "https://randomuser.me/api/": read tcp [2a00:23c8:d641:8701:a508:bbd:d4d:debf]:55559->[2606:4700:3030::6815:4001]:443: read: operation timed out
+2025/03/14 09:41:07 Failed to fetch data. Skipping...
+2025/03/14 09:41:37 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:41:37 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:41:37 ✅ Data transformed successfully.
+2025/03/14 09:41:37 ✅ Processed data saved successfully.
+2025/03/14 09:41:37 Successfully processed and saved transformed data.
+2025/03/14 09:42:12 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:42:12 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:42:12 ✅ Data transformed successfully.
+2025/03/14 09:42:12 ✅ Processed data saved successfully.
+2025/03/14 09:42:12 ✅ Successfully processed and saved transformed data.
+2025/03/14 09:42:30 Starting HTTP server on port 8080...
+2025/03/14 09:42:30 Main function is running!
+2025/03/14 09:42:30 Server started on port 8080...
+2025/03/14 09:42:31 Failed to save raw data: dial tcp [::1]:5432: connect: connection refused
+2025/03/14 09:42:31 ✅ Successfully fetched and stored raw data.
+2025/03/14 09:42:31 ✅ Data transformed successfully.
+2025/03/14 09:42:31 ✅ Processed data saved successfully.
+2025/03/14 09:42:31 Successfully processed and saved transformed data.
